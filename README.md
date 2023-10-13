@@ -7,9 +7,9 @@
 
 ## Troubleshooting, Tips
 
-- If you have problems getting the css or image files pathed properly, please see the examples set out for you in `example_paths.html`
+- If you have problems getting the CSS or image files pathed properly, please see the examples set out for you in `example_paths.html`
 - The easiest way to view html files for this assignment is to use 
 File > Open > [browse to `brain-fm.html` file] in your favorite browser.
 - Most developers - _but not all_ - prefer chrome as their favorite browser to develop in.
-- Learn the keystrokes to format and save files so you can do so every time you make changes.
-- Commit your work locally, so that you can revert to a previous commit in case of unforseen challenges.
+- Learn the keystrokes to format and save files so you can do so without even thinking - _**every time you make changes!**_
+- Commit your work locally frequently (daily?), so that you can revert to a previous commit in case of unforseen problems, later.
