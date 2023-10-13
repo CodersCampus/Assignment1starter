@@ -1,7 +1,7 @@
 # Assignment 1 starter
 
 - Use this template to create `Assignment1` in your own github.com site.
-- Clone that down to your local computer INTO YOUR BOOTCAMP WORKSPACE FOLDER using your favorite tool such as the Github Desktop app which you would have installed on your computer.
+- Clone that down to your local computer **INTO YOUR BOOTCAMP WORKSPACE FOLDER** using your favorite tool such as the Github Desktop app which you would have installed on your computer.
 - Open the `Assignement1` folder using VSCode which you would have already installed on your computer.
 - Follow the instructions in the video coursework, excepting where this project does much of that setup work for you.
 
@@ -12,7 +12,7 @@
 File > Open > [browse to `brain-fm.html` file] in your favorite browser.
 - Most developers - _but not all_ - prefer chrome as their favorite browser to develop in.
 - Learn the keystrokes to format and save files so you can do so without even thinking - _**every time you make changes!**_
-- Commit your work locally frequently (daily?), so that you can revert to a previous commit in case of unforseen problems, later.
+- Commit your work locally frequently (daily?), so that you can revert to a previous commit in case of unforseen problems, later. Also, good practice with `git`
 
 ## Assignment 1 and the "4 Hour Rule"
 
